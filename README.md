@@ -6,6 +6,7 @@
 注:<br/>
 数据集文件解压到data文件夹下<br/>
 解压data下的所有压缩包<br/>
+### 本实验用到了两个数据集:
 1. 天池零样本学习数据集<br/>
 2. AwA(Animals with Attributes)<br/>
 ## 1.分类
