@@ -11,13 +11,13 @@
 引用：https://github.com/jiny2001/dcscn-super-resolution<br/>
 超分辨结果保存在:data/classification/sr.zip
 2. 模型
-<img src="https://github.com/wss321/dl_course/blob/master/documents/clf.png" width="800">
+<img src="https://github.com/wss321/dl_course/blob/master/documents/clf.png" width="600">
 3. 结果
-<img src="https://github.com/wss321/dl_course/blob/master/documents/result1.png" width="800">
+<img src="https://github.com/wss321/dl_course/blob/master/documents/result1.png" width="600">
 ## 2. zero-shot learning
 运行 code下的model*.py 12个文件给出对应的实验结果，在天池和AwA数据集上都进行了实验, 结果放在result文件夹下
 1. 模型
-<img src="https://github.com/wss321/dl_course/blob/master/documents/model1.png" width="800">
-<img src="https://github.com/wss321/dl_course/blob/master/documents/model2.png" width="800">
+<img src="https://github.com/wss321/dl_course/blob/master/documents/model1.png" width="600">
+<img src="https://github.com/wss321/dl_course/blob/master/documents/model2.png" width="600">
 2. 结果
-<img src="https://github.com/wss321/dl_course/blob/master/documents/result2.png" width="800">
+<img src="https://github.com/wss321/dl_course/blob/master/documents/result2.png" width="600">
